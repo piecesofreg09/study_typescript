@@ -44,6 +44,7 @@ class Y2 extends X{
 
 const Y1ins = new Y1('add new stuff');
 const Y2ins = new Y2('remove stuff');
-
+const Xins = new X('ori');
 Y2ins.runn();
 Y1ins.runn();
+Xins.runn();
