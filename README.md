@@ -1,1 +1,2 @@
-# stufy_typescript
+# study_typescript
+
